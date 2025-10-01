@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Germinated', 'Not germinated']
+
+roboflow:
+  workspace: atomon3space1
+  project: v2-maize-pollen-germination
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/atomon3space1/v2-maize-pollen-germination/dataset/3
