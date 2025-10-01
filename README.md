@@ -31,7 +31,7 @@ pip install -r requirements.txt
 Usage
 
 1. Inside the ASAP folder, place all the images you want to analyze inside the Input folder.
-2. Run the script (F2) using the pre-trained model (best.pt is already included):
+2. Run (in "Anaconda Prompt") the script (F2) using the pre-trained model (best.pt is already included):
 
 cd %USERPROFILE%\Documents\Maize-Pollen-Germination
 
