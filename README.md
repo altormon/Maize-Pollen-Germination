@@ -17,7 +17,7 @@ Installation (first use only)
 1. Download this repository from GitHub: Click on Code → Download ZIP. Extract the folder to a location of your choice (e.g. Documents/ASAP).
 2. Extract the folders "train" and "valid".
 3. Download the model (https://github.com/altormon/Maize-Pollen-Germination/releases/download/v1.0/weights.zip). Extract the folder and insert it in the "detect" folder (Maize-Pollen-Germination/runs/detect).
-4. Create a new environment in Anaconda and install the required libraries:
+4. Create a new environment in Anaconda (open "Anaconda Prompt") and install the required libraries:
 
 cd %USERPROFILE%\Documents\Maize-Pollen-Germination
 
